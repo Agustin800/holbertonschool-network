@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# displeyea los sockets disponibles y muestra el pid y el nombre de cada socket
 netstat -lp
