@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Muestra todas las IPs activas en la máquina
+
+hostname -I
