@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #hace ping 5 veces al ip
 
 if [ -z "$1" ]; then
